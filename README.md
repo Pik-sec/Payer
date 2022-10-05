@@ -6,6 +6,8 @@ mac、windows、linux均可使用
 
 使用说明
 go mod init main
+
+
 go build main
 
 
