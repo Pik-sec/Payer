@@ -6,6 +6,10 @@ mac、windows、linux均可使用
 
 使用说明
 
+./Payer -help 查看帮助
+
+Payer.exe -help 查看帮助
+
 -d 扫描需要爆破的二级域名、三级域名、四...
 
 -t 添加线程
