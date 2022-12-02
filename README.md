@@ -39,3 +39,6 @@ Payer.exe -help 查看帮助
  
  进度条更新，更新 size 匹配，引入 -xmax 不想显示的最大size值 -xmin 不想显示的最小size 可以同时匹配
  
+ [![Stargazers over time](https://starchart.cc/Pik-sec/Payer.svg)](https://starchart.cc/Pik-sec/Payer)
+
+ 
