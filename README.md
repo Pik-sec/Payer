@@ -17,13 +17,15 @@ Payer.exe -help 查看帮助
 
 -t 添加线程
 
--x 不想显示的size值
+-x 不想显示的size值 -x 100,200,300同时使用
 
 -xmax 不想显示的最大size值 
 
 -xmin 不想显示的最小size 
 
 -xmax -xmin 可以同时匹配
+
+-p 代理,如 http://username:password@ip:port, http://ip:port
  
 ```
 
@@ -41,4 +43,6 @@ Payer.exe -help 查看帮助
  
  [![Stargazers over time](https://starchart.cc/Pik-sec/Payer.svg)](https://starchart.cc/Pik-sec/Payer)
 
- 
+# 12月7日更新
+
+ 更新增加代理 -p , 多个size匹配,可以 -x 100,200,300同时使用
