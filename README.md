@@ -27,6 +27,8 @@ Payer.exe -help 查看帮助
 
 -p 代理,如 http://username:password@ip:port, http://ip:port
  
+-o 输出的指定文件内 
+ 
 ```
 
 # 11月22日更新
